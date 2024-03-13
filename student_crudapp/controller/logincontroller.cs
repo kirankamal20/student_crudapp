@@ -17,7 +17,7 @@ namespace student_crudapp.controller
         {
             if (data.Username == "Kiran" && data.Password == "Kiran@123")
             {
-                return Ok(new { message = "Logged-in Successfully" });
+                return Ok(new { message = "Logged-in Success" });
             }
             else
             {
