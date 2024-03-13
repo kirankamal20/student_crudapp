@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "student_crudapp", "student_crudapp\student_crudapp.csproj", "{6CFA1CB8-AC2B-4111-95D5-9588A62882F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CFA1CB8-AC2B-4111-95D5-9588A62882F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CFA1CB8-AC2B-4111-95D5-9588A62882F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CFA1CB8-AC2B-4111-95D5-9588A62882F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CFA1CB8-AC2B-4111-95D5-9588A62882F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5525B4F1-224F-4051-A9DF-2950D5F0D825}
+	EndGlobalSection
+EndGlobal
